@@ -524,7 +524,7 @@
             <div class="container">
 
                 <header class="section-header">
-                    <h3>Our Clients</h3>
+                    <h3>Our Partners</h3>
                 </header>
 
                 <div class="owl-carousel clients-carousel">
@@ -736,9 +736,9 @@
                     <div class="col-lg-3 col-md-6 footer-contact">
                         <h4>Contact Us</h4>
                         <p>
-                            A108 Adam Street <br> New York, NY 535022<br> United States <br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            Makerere University <br> College Of Engineering Design Art & Technology<br> Uganda <br>
+                            <strong>Phone:</strong> +256 772065265<br>
+                            <strong>Email:</strong> info@makerereinnnovationsociety.org<br>
                         </p>
 
                         <div class="social-links">
@@ -753,7 +753,7 @@
 
                     <div class="col-lg-3 col-md-6 footer-newsletter">
                         <h4>Our Newsletter</h4>
-                        <p> You cac subsribe to our news letter for updates</p>
+                        <p> You can subscribe to our news letter for updates</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
@@ -765,7 +765,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
+                &copy; Copyright <strong>makerereinnnovationsociety</strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!--
