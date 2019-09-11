@@ -45,7 +45,7 @@
         <div class="container-fluid">
 
             <div id="logo" class="pull-left">
-                <h1><a href="#intro" class="scrollto">Makerere Inovation Society</a></h1>
+                <h3><a href="#intro" class="scrollto">Makerere Inovation Society</a></h3>
                 <!-- Uncomment below if you prefer to use an image logo -->
                 <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
             </div>
