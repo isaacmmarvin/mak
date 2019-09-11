@@ -47,7 +47,7 @@
             <div id="logo" class="pull-left">
                 <h3><a href="#intro" class="scrollto">Makerere Inovation Society</a></h3>
                 <!-- Uncomment below if you prefer to use an image logo -->
-            <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>
+            <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a> -->
             </div>
 
             <nav id="nav-menu-container">
