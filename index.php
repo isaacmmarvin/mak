@@ -47,7 +47,7 @@
             <div id="logo" class="pull-left">
                 <h3><a href="#intro" class="scrollto">Makerere Inovation Society</a></h3>
                 <!-- Uncomment below if you prefer to use an image logo -->
-                <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+            <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>
             </div>
 
             <nav id="nav-menu-container">
@@ -742,11 +742,11 @@
                         </p>
 
                         <div class="social-links">
-                            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="https://twitter.com/MIS_UG" class="twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/MakerereInnovationSociety/" class="facebook"><i class="fa fa-facebook"></i></a>
                             <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
                             <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                            <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://www.linkedin.com/company/26209198/" class="linkedin"><i class="fa fa-linkedin"></i></a>
                         </div>
 
                     </div>
