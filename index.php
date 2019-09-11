@@ -88,7 +88,7 @@
                         <div class="carousel-container">
                             <div class="carousel-content">
                                 <h2>Introduction</h2>
-                                <p>Makerere Innovation Sversities, Vocational Instituti.dary and Primary Schools in Uganda.</p>
+                                <p>Creating the future of students in East Africa</p>
                                 <a href="#featured-services" class="btn-get-started scrollto">More About us</a>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                     <div class="col-lg-4 box">
                         <i class="ion-ios-heart-outline"></i>
                         <h4 class="title"><a href="">  Good corporate governance</a></h4>
-                        <p class="description">The Mnagement at MIS works so hard to make sure everything runs smoothly with sublime service delivery</p>
+                        <p class="description">The Management at MIS works so hard to make sure everything runs smoothly with sublime service delivery</p>
                     </div>
 
                 </div>
@@ -324,29 +324,29 @@
                 <div class="row counters">
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">274</span>
+                        <span data-toggle="counter-up">3</span>
                         <p>Universities</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">421</span>
+                        <span data-toggle="counter-up">32</span>
                         <p>Secondary Schools</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">1,364</span>
+                        <span data-toggle="counter-up">7</span>
                         <p>Primary Schools</p>
                     </div>
 
                     <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">18</span>
-                        <p>Tertiary Institutions</p>
+                        <span data-toggle="counter-up">4</span>
+                        <p>Vocational Institutions</p>
                     </div>
 
                 </div>
 
                 <div class="facts-img">
-                    <img src="img/facts-img.png" alt="" class="img-fluid">
+                   <!-- <img src="img/facts-img.png" alt="" class="img-fluid"> -->
                 </div>
 
             </div>
@@ -597,7 +597,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="member">
-                            <img src="img/team-3.jpg" class="img-fluid" alt="">
+                            <img src="img/.jpg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Isaac Mubiru</h4>
@@ -615,7 +615,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
-                            <img src="img/team-4.jpg" class="img-fluid" alt="">
+                            <img src="img/.jpg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Joel Muhanguzi</h4>
@@ -645,7 +645,7 @@
 
                 <div class="section-header">
                     <h3>Contact Us</h3>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                    <p></p>
                 </div>
 
                 <div class="row contact-info">
@@ -654,7 +654,7 @@
                         <div class="contact-address">
                             <i class="ion-ios-location-outline"></i>
                             <h3>Address</h3>
-                            <address>A108 Adam Street, NY 535022, USA</address>
+                            <address>Makerere University, College of Engineering Design Art & Technology</address>
                         </div>
                     </div>
 
@@ -662,7 +662,7 @@
                         <div class="contact-phone">
                             <i class="ion-ios-telephone-outline"></i>
                             <h3>Phone Number</h3>
-                            <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+                            <p><a href="tel:+256 772065265">+256 772065265</a></p>
                         </div>
                     </div>
 
@@ -670,7 +670,7 @@
                         <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Email</h3>
-                            <p><a href="mailto:info@example.com">info@example.com</a></p>
+                            <p><a href="mailto:info@example.com">info@makerereinnnovationsociety.org</a></p>
                         </div>
                     </div>
 
@@ -717,9 +717,9 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-info">
-                        <h3>BizPage</h3>
-                        <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat
-                            mauris nunc congue.</p>
+                        <h3>Makerere Innovation Society</h3>
+                        <p> We believe passionately in the power of innnovation and active entrepreneurship to accelerate the rate of economic growth in East Africa
+                        </p>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
@@ -753,7 +753,7 @@
 
                     <div class="col-lg-3 col-md-6 footer-newsletter">
                         <h4>Our Newsletter</h4>
-                        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
+                        <p> You cac subsribe to our news letter for updates</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
