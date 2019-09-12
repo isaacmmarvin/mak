@@ -46,12 +46,13 @@
 
             
                 <!-- <a href="#intro"><img src="img/logo_3.png" alt="" title="" /></a> -->
-                <h3><a href="#intro" class="navbar-brand">Makerere Inovation Society</a></h3>
+                
                 <!-- Uncomment below if you prefer to use an image logo -->
             
           
 
             <nav id="nav-menu-container">
+            <h3><a href="#intro" class="navbar-brand">Makerere Inovation Society</a></h3>
                 <ul class="nav-menu">
                     <li class="menu-active"><a href="#intro">Home</a></li>
                     <li><a href="#about">About Us</a></li>
