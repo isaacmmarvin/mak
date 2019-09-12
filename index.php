@@ -44,15 +44,14 @@
     <header id="header">
         <div class="container-fluid">
 
-           
-
-            <nav id="nav-menu-container">
-            <div id="logo" class="pull-left">
-            <a href="#intro" class="navbar-brand"><img src="img/logo_3.png" alt="" title="" /></a>
-                <h3><a href="#intro" class="scrollto">Makerere Inovation Society</a></h3>
+            
+                <!-- <a href="#intro"><img src="img/logo_3.png" alt="" title="" /></a> -->
+                <h3><a href="#intro" class="navbar-brand">Makerere Inovation Society</a></h3>
                 <!-- Uncomment below if you prefer to use an image logo -->
             
-            </div>
+          
+
+            <nav id="nav-menu-container">
                 <ul class="nav-menu">
                     <li class="menu-active"><a href="#intro">Home</a></li>
                     <li><a href="#about">About Us</a></li>
