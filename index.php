@@ -46,7 +46,7 @@
 
             <div id="logo" class="pull-left">
             <a href="#intro"><img src="img/logo_3.png" alt="" title="" /></a>
-                <h3><a href="#intro" class="scrollto">MIS</a></h3>
+                <h3><a href="#intro" class="scrollto">Makerere Inovation Society</a></h3>
                 <!-- Uncomment below if you prefer to use an image logo -->
             
             </div>
