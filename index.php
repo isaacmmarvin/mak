@@ -41,18 +41,20 @@
     <!--==========================
     Header
   ============================-->
-    <header id="header">
+  <header id="header">
         <div class="container-fluid">
 
-            
-                <!-- <a href="#intro"><img src="img/logo_3.png" alt="" title="" /></a> -->
+            <div id="logo" class="pull-left">
+                <div class="logo-box">
+                        <a href="#intro"><img src="img/logo_3.png" alt="" title=""  class="logo" /></a>
+                        
+                </div>
                 
                 <!-- Uncomment below if you prefer to use an image logo -->
-            
-          
+                <h4><a href="#intro" class="scrollto">Makerere Inovation Society</a></h4>
+            </div>
 
             <nav id="nav-menu-container">
-            <h3><a href="#intro" class="navbar-brand">Makerere Inovation Society</a></h3>
                 <ul class="nav-menu">
                     <li class="menu-active"><a href="#intro">Home</a></li>
                     <li><a href="#about">About Us</a></li>
@@ -563,7 +565,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp">
                         <div class="member">
-                            <img src="img/solo.jpg" class="img-fluid" alt="">
+                            <img src="img/solo.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Solomon Bwire</h4>
@@ -581,7 +583,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="member">
-                            <img src="img/marvin.jpg" class="img-fluid" alt="">
+                            <img src="img/banda.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Marvin Mugume</h4>
@@ -599,7 +601,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="member">
-                            <img src="img/.jpg" class="img-fluid" alt="">
+                            <img src="img/zac.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Isaac Mubiru</h4>
@@ -617,7 +619,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
-                            <img src="img/.jpg" class="img-fluid" alt="">
+                            <img src="img/tiba.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Joel Muhanguzi</h4>
@@ -632,7 +634,108 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/finance.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Angom Rachael</h4>
+                                    <span>Finance team lead</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/edith.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Edith Ndagire</h4>
+                                    <span>Talent team lead</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>   
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/tiba.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Joel Muhanguzi</h4>
+                                    <span>Senior Coaches Instructor</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/scovia.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Achan Scoiva</h4>
+                                    <span>Schools Coordinator</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/colleges.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Turibamwe Elvin</h4>
+                                    <span>Colleges Coordinator</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/regan.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Regan Sebuliba</h4>
+                                    <span>Researcher</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
                 </div>
 
             </div>
