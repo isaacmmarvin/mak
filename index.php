@@ -616,8 +616,7 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="row">
+                    
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
@@ -670,8 +669,7 @@
                             </div>
                         </div>
                     </div>   
-</div>
-<div class="row">
+                    
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
                             <img src="img/scovia.jpeg" class="img-fluid" alt="">
@@ -722,8 +720,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div> 
-</div>          
+                    </div>  
                 </div>
 
             </div>
