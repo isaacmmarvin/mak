@@ -419,7 +419,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Kampala Parents SChool</a></h4>
+                                <h4><a href="#">Nakasero Primary School</a></h4>
                                 <p>Primary Schools</p>
                             </div>
                         </div>
@@ -428,13 +428,13 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/pri_1.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio/pri_2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <img src="img/portfolio/Nakasero.jpeg" class="img-fluid" alt="">
+                                <a href="img/portfolio/primary.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">UYSTO</a></h4>
+                                <h4><a href="#">Arua Technical Institute Ragem</a></h4>
                                 <p>tertiary Institutioms </p>
                             </div>
                         </div>
