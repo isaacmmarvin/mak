@@ -635,6 +635,25 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="member">
+                            <img src="img/tiba.jpeg" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>Zillah Nangobi</h4>
+                                    <span>Senior Talent Engagement partner</span>
+                                    <div class="social">
+                                        <a href=""><i class="fa fa-twitter"></i></a>
+                                        <a href=""><i class="fa fa-facebook"></i></a>
+                                        <a href=""><i class="fa fa-google-plus"></i></a>
+                                        <a href=""><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
                             <img src="img/finance.jpeg" class="img-fluid" alt="">
@@ -658,7 +677,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Edith Ndagire</h4>
-                                    <span>Talent team lead</span>
+                                    <span>Senior Colleges Coordinator</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -676,7 +695,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Achan Scoiva</h4>
-                                    <span>Schools Coordinator</span>
+                                    <span>Treasurer</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -693,7 +712,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Turibamwe Elvin</h4>
-                                    <span>Colleges Coordinator</span>
+                                    <span>Communications Officer</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -710,7 +729,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>claire Nakaketo</h4>
-                                    <span>Senior Talent Engagement partner</span>
+                                    <span>Talent Engagement Manager</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
