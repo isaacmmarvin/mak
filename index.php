@@ -710,7 +710,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>claire Nakaketo</h4>
-                                    <span>Researcher</span>
+                                    <span>Senior Talent Engagement partner</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
