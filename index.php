@@ -434,7 +434,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Arua Technical Institute Ragem</a></h4>
+                                <h4><a href="#">Arua Technical Institute </a></h4>
                                 <p>tertiary Institutioms </p>
                             </div>
                         </div>
@@ -532,9 +532,9 @@
                 </header>
 
                 <div class="owl-carousel clients-carousel">
-                    <img src="img/clients/client-1.png" alt="">
-                    <img src="img/clients/client-2.png" alt="">
-                    <img src="img/clients/client-3.png" alt="">
+                    <img src="img/awc.png" alt="">
+                    <img src="img/mini.png" alt="">
+                    <img src="img/mic.png" alt="">
                     <img src="img/clients/client-4.png" alt="">
                     <img src="img/clients/client-5.png" alt="">
                     <img src="img/clients/client-6.png" alt="">
