@@ -535,11 +535,8 @@
                     <img src="img/awc.png" alt="">
                     <img src="img/mini.png" alt="">
                     <img src="img/mic.png" alt="">
-                    <img src="img/clients/client-4.png" alt="">
-                    <img src="img/clients/client-5.png" alt="">
-                    <img src="img/clients/client-6.png" alt="">
-                    <img src="img/clients/client-7.png" alt="">
-                    <img src="img/clients/client-8.png" alt="">
+                    <img src="img/buspng" alt="">
+                   
                 </div>
 
             </div>
