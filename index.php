@@ -534,8 +534,7 @@
                 <div class="owl-carousel clients-carousel">
                     <img src="img/awc.png" alt="">
                     <img src="img/mini.png" alt="">
-                    <img src="img/mic.png" alt="">
-                    <img src="img/buspng" alt="">
+                    <img src="img/bus.png" alt="">
                    
                 </div>
 
