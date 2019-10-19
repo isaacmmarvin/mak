@@ -414,7 +414,7 @@
                         <div class="portfolio-wrap">
                             <figure>
                                 <img src="img/portfolio/sec_3.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio/sec_4.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="img/portfolio/sec_2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
