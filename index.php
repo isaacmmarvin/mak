@@ -414,7 +414,7 @@
                         <div class="portfolio-wrap">
                             <figure>
                                 <img src="img/portfolio/sec_3.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio/ec_4.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="img/portfolio/sec_4.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
@@ -435,7 +435,7 @@
 
                             <div class="portfolio-info">
                                 <h4><a href="#">Arua Technical Institute </a></h4>
-                                <p>tertiary Institutioms </p>
+                                <p>tertiary Institutions </p>
                             </div>
                         </div>
                     </div>
