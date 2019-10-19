@@ -398,23 +398,41 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/sec_1.jpg" class="img-fluid" alt="">
-                                <a href="img/portfolio/sec_2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                <img src="img/portfolio/caltec.jpeg" class="img-fluid" alt="">
+                                <a href="img/portfolio/caltec.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Macos</a></h4>
+                                <h4><a href="#">Caltec Academy Makerere</a></h4>
+                                <p>Secondary Schools</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="portfolio-wrap">
+                            <figure>
+                                <img src="img/portfolio/nak.jpeg" class="img-fluid" alt="">
+                                <a href="img/portfolio/nak.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                            </figure>
+
+                            <div class="portfolio-info">
+                                <h4><a href="#">Rock High school Tororo</a></h4>
                                 <p>Secondary Schools</p>
                             </div>
                         </div>
                     </div>
 
+
+
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/nak.jpeg" class="img-fluid" alt="">
-                                <a href="img/portfolio/nak.jpeg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <img src="img/portfolio/nakasero.jpeg" class="img-fluid" alt="">
+                                <a href="img/portfolio/nakasero.jpeg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
