@@ -413,7 +413,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/nak3.jpeg" class="img-fluid" alt="">
+                                <img src="img/portfolio/nak.jpeg" class="img-fluid" alt="">
                                 <a href="img/portfolio/nak.jpeg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
@@ -428,8 +428,8 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/Nakasero.jpeg" class="img-fluid" alt="">
-                                <a href="img/portfolio/primary.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <img src="img/portfolio/nak.jpeg" class="img-fluid" alt="">
+                                <a href="img/portfolio/nak.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
 
