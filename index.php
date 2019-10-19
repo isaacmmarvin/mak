@@ -535,7 +535,7 @@
                     <img src="img/awc.png" alt="">
                     <img src="img/mini.png" alt="">
                     <img src="img/bus.png" alt="">
-                   
+                    <img src="img/mic.png" alt="">
                 </div>
 
             </div>
