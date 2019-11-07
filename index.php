@@ -117,7 +117,7 @@
                                 <h2>Being part of MIS</h2>
                                 <p>The purpose and need for proposing this burning and thinning initiative is because there is a need to reduce the problem of youth unemployment and its effects in Uganda to achieve her goals in the vision 2040 through embedding
                                     Innovations & active entrepreneurship to the existing education system.</p>
-                                <a href="#featured-services" class="btn-get-started scrollto">More About us</a>
+                                <a href="https://forms.gle/s8W9zfYrsZTS1oB87" class="btn-get-started scrollto">Apply for bootCamp</a>
                             </div>
                         </div>
                     </div>
@@ -550,7 +550,7 @@
                 </header>
 
                 <div class="owl-carousel clients-carousel">
-                    <img src="img/awc.png" alt="">
+                    <img src="img/acw.png" alt="">
                     <img src="img/mini.png" alt="">
                     <img src="img/bus.png" alt="">
                     <img src="img/mic.png" alt="">
