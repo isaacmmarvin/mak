@@ -619,7 +619,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Isaac Mubiru</h4>
-                                    <span>CTO</span>
+                                    <span>Senior coaches Manager</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -650,7 +650,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
                             <img src="img/tiba.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
@@ -666,7 +666,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
