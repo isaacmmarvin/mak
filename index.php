@@ -484,7 +484,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/uni_3.jpg" class="img-fluid" alt="">
+                                <img src="img/portfolio/toro.jpeg" class="img-fluid" alt="">
                                 <a href="img/portfolio/uni_4.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
