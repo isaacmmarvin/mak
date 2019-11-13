@@ -58,7 +58,7 @@
                 <ul class="nav-menu">
                     <li class="menu-active"><a href="#intro">Home</a></li>
                     <li><a href="#about">About Us</a></li>
-                    <li><a href="#services">Core Values</a></li>
+                    <li><a href="https://forms.gle/u3hjEFDbrzVDZkq46">Join Us</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li>
                     <a  href="https://forms.gle/s8W9zfYrsZTS1oB87" >Apply</a>
@@ -642,7 +642,7 @@
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="member">
-                            <img src="img/tiba.jpeg" class="img-fluid" alt="">
+                            <img src="img/joel.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Joel Muhanguzi</h4>
