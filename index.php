@@ -490,7 +490,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Gyza</a></h4>
+                                <h4><a href="#">Tororo Girls School</a></h4>
                                 <p>Secondary Schools</p>
                             </div>
                         </div>
