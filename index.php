@@ -61,13 +61,13 @@
                     <li><a href="#services">Core Values</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li>
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" c>Apply</a>
-                    <div class="dropdown-menu">
+                    <a  href="https://forms.gle/s8W9zfYrsZTS1oB87" >Apply</a>
+                    <!-- <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">Become a Member</a>
                             <a class="dropdown-item" href="https://forms.gle/s8W9zfYrsZTS1oB87">Apply for Innovation Camp</a>
                        
                             
-                  </div>
+                  </div> -->
                     </li>
                     <li class="menu-has-children"><a href="">Teams</a></li>
                     <ul>
