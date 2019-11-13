@@ -483,7 +483,7 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
                             <figure>
-                                <img src="img/portfolio/kayambogo.jpeg" class="img-fluid" alt="">
+                                <img src="img/portfolio/kyambogo.jpeg" class="img-fluid" alt="">
                                 <a href="img/portfolio/pri_5.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                             </figure>
