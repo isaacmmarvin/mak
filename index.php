@@ -60,7 +60,15 @@
                     <li><a href="#about">About Us</a></li>
                     <li><a href="#services">Core Values</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#team">Team</a></li>
+                    <li>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" c>Apply</a>
+                    <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">Apply as a trainer</a>
+                            <a class="dropdown-item" href="#">Apply for Innovation Camp</a>
+                       
+                            
+                  </div>
+                    </li>
                     <li class="menu-has-children"><a href="">Teams</a></li>
                     <ul>
                         <li><a href="#">Advanced teams</a></li>
