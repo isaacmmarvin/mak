@@ -63,8 +63,8 @@
                     <li>
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" c>Apply</a>
                     <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Apply as a trainer</a>
-                            <a class="dropdown-item" href="#">Apply for Innovation Camp</a>
+                            <a class="dropdown-item" href="#">Become a Member</a>
+                            <a class="dropdown-item" href="https://forms.gle/s8W9zfYrsZTS1oB87">Apply for Innovation Camp</a>
                        
                             
                   </div>
