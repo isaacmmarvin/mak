@@ -510,7 +510,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
                         <div class="portfolio-wrap">
                             <figure>
                                 <img src="img/portfolio/uni_5.jpg" class="img-fluid" alt="">
@@ -523,7 +523,7 @@
                                 <p>primamry schools</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-wrap">
