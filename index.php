@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
+    <meta name="google-site-verification" content="rMcuXmmLtBtnc5H4uaMzAyJdWkFs54cLC-wUB9mIL78" />
 
     <!-- Favicons -->
     <link href="img/logo_3.png" rel="icon">
