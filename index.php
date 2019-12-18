@@ -331,7 +331,7 @@
 
                 <header class="section-header">
                     <h3>Facts</h3>
-                    <p>Makerere Innovation Society is spreading all over uganda</p>
+                    <p>Makerere Innovation Society is expanding to all regions in Uganda</p>
                 </header>
 
                 <div class="row counters">
@@ -398,7 +398,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Mak</a></h4>
+                                <h4><a href="#">Makerere University</a></h4>
                                 <p>Universities</p>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Mama Junior School Update</a></h4>
+                                <h4><a href="#">Maama Junior School Malaba</a></h4>
                                 <p>Primary Schools</p>
                             </div>
                         </div>
@@ -476,7 +476,7 @@
 
                             <div class="portfolio-info">
                                 <h4><a href="#">Arua Technical Institute </a></h4>
-                                <p>tertiary Institutions </p>
+                                <p>Vocational Institutions </p>
                             </div>
                         </div>
                     </div>
@@ -490,7 +490,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">Kyambogo</a></h4>
+                                <h4><a href="#">Kyambogo University</a></h4>
                                 <p>Universities</p>
                             </div>
                         </div>
@@ -520,7 +520,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">City parents school</a></h4>
+                                <h4><a href="#">Our Lady of Africa primary school</a></h4>
                                 <p>primamry schools</p>
                             </div>
                         </div>
@@ -535,7 +535,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">gulu University</a></h4>
+                                <h4><a href="#">Gulu University</a></h4>
                                 <p>Universities</p>
                             </div>
                         </div>
@@ -550,7 +550,7 @@
                             </figure>
 
                             <div class="portfolio-info">
-                                <h4><a href="#">lubiri</a></h4>
+                                <h4><a href="#">Kimbilio primary school</a></h4>
                                 <p>primary schools</p>
                             </div>
                         </div>
@@ -595,7 +595,7 @@
             <div class="container">
                 <div class="section-header wow fadeInUp">
                     <h3>Team</h3>
-                    <p>The managemnt team at MIS is exception and full of committed fellas who know what they're doing</p>
+                    <p>The managemnt team at MIS is exception and determined to achieve our goals and objectives</p>
                 </div>
 
                 <div class="row">
@@ -624,7 +624,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Marvin Mugume</h4>
-                                    <span>Junior coaches manager</span>
+                                    <span>Junior talent engagement partner</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -642,7 +642,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Isaac Mubiru</h4>
-                                    <span>Senior coaches Manager</span>
+                                    <span>Junior coaches Coordinator</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -661,7 +661,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Joel Muhanguzi</h4>
-                                    <span>Senior Coaches Instructor</span>
+                                    <span>Senior Coaches Coordinator</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -714,7 +714,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>Edith Ndagire</h4>
-                                    <span>Senior Colleges Coordinator</span>
+                                    <span>Talent team lead</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
@@ -731,7 +731,7 @@
                             <img src="img/scovia.jpeg" class="img-fluid" alt="">
                             <div class="member-info">
                                 <div class="member-info-content">
-                                    <h4>Achan Scoiva</h4>
+                                    <h4>Achan Scovia</h4>
                                     <span>Treasurer</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
@@ -766,7 +766,7 @@
                             <div class="member-info">
                                 <div class="member-info-content">
                                     <h4>claire Nakaketo</h4>
-                                    <span>Talent Engagement Manager</span>
+                                    <span>Senior Colleges Coordinator</span>
                                     <div class="social">
                                         <a href=""><i class="fa fa-twitter"></i></a>
                                         <a href=""><i class="fa fa-facebook"></i></a>
