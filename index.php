@@ -803,7 +803,10 @@
                             <i class="ion-ios-location-outline"></i>
                             <h3>Address</h3>
                             <address>Makerere University, College of Engineering Design Art & Technology</address>
+                            <?php
+                            echo "its zac";  ?>
                         </div>
+
                     </div>
 
                     <div class="col-md-4">
@@ -818,7 +821,7 @@
                         <div class="contact-email">
                             <i class="ion-ios-email-outline"></i>
                             <h3>Email</h3>
-                            <p><a href="mailto:info@example.com">info@makerereinnnovationsociety.org</a></p>
+                            <p><a href="mailto:info@example.com">info@makerereinnovationsociety.org</a></p>
                         </div>
                     </div>
 
