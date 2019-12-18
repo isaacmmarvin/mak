@@ -888,7 +888,7 @@
                         <p>
                             Makerere University <br> College Of Engineering Design Art & Technology<br> Uganda <br>
                             <strong>Phone:</strong> +256 772065265<br>
-                            <strong>Email:</strong> info@makerereinnnovationsociety.org<br>
+                            <strong>Email:</strong> info@makerereinnovationsociety.org<br>
                         </p>
 
                         <div class="social-links">
