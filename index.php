@@ -803,8 +803,7 @@
                             <i class="ion-ios-location-outline"></i>
                             <h3>Address</h3>
                             <address>Makerere University, College of Engineering Design Art & Technology</address>
-                            <?php
-                            echo "its zac";  ?>
+                           
                         </div>
 
                     </div>
@@ -869,7 +868,7 @@
 
                     <div class="col-lg-3 col-md-6 footer-info">
                         <h3>Makerere Innovation Society</h3>
-                        <p> We believe passionately in the power of innnovation and active entrepreneurship to accelerate the rate of economic growth in East Africa
+                        <p> We believe passionately in the power of innovation and active entrepreneurship to accelerate the rate of economic growth in East Africa
                         </p>
                     </div>
 
@@ -916,7 +915,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>makerereinnnovationsociety</strong>. All Rights Reserved
+                &copy; Copyright <strong>makerereinnovationsociety</strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!--
